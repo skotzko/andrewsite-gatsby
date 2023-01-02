@@ -5,7 +5,7 @@
   },
   "production": {
     "apiUrl": "https://andrewsite.fly.dev",
-    "siteUrl": "https://andrewsite.fly.dev",
+    "siteUrl": "https://andrewskotzkosite.netlify.app/",
     "contentApiKey": "8134f270169584317487d7ad69"
   }
 }
