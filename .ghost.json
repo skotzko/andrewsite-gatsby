@@ -1,7 +1,6 @@
 {
   "development": {
     "apiUrl": "https://andrewsite.fly.dev",
-    "siteUrl": "https://andrewsite.fly.dev",
     "contentApiKey": "8134f270169584317487d7ad69"
   },
   "production": {
