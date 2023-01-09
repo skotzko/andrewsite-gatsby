@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
-    "eslint": "8.30.0",
+    "eslint": "8.31.0",
     "eslint-plugin-ghost": "2.16.0",
     "eslint-plugin-react": "7.31.11"
   },
@@ -52,7 +52,7 @@
     "gatsby-plugin-react-helmet": "5.15.0",
     "gatsby-plugin-sharp": "4.15.1",
     "gatsby-source-filesystem": "4.15.0",
-    "gatsby-source-ghost": "5.0.1",
+    "gatsby-source-ghost": "5.0.2",
     "gatsby-transformer-sharp": "4.15.1",
     "lodash": "4.17.21",
     "react": "18.2.0",
